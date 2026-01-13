@@ -7,14 +7,14 @@ Track your IRL meals ! (Yes, you have to eat REAL LIFE FOOD) :blueCookie:
 Goop gets fed and spits out resources based on *what you eat*. :bluejerksmirk: 
 
 You craft a base. The base collects extra resources.  :ONG: 
-THEN! You use resources to set up defenses. A glooming threat is on its way (if you want it to be). :starewaiting~1: 
+THEN! You use resources to set up defenses. A glooming threat is on its way (if you want it to be). :starewaiting: 
 You can choose to be attacked by enemies (don't know what kind yet but yeah)
 The harder difficulty you pick, the more you stand to gain. If you lose, you don't lose anything, you just don't gain anything either.
 IF YOU WIN YOU GET COSMETICS AND SHIT!  :tf2_dear_god: 
 Cosmetics which you can put on your goop! :tf2_soldier_conga: 
 Not just cosmetics though. You can get goop shapes, wigs, eyes, random objects to stick inside or on your goop, paints, dyes, modeling tools :scream:, and much more !
 THEN you fight your friends in a battle of mimicry! :pregnant_man: 
-You outfit and shape your goop to match a randomly picked person, character, or object. AND WHOEVER WINS...... is like cool and stuff so yeah that's the game. :proud~1: 
+You outfit and shape your goop to match a randomly picked person, character, or object. AND WHOEVER WINS...... is like cool and stuff so yeah that's the game. :proud: 
 
 
 TL:DR
