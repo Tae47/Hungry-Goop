@@ -54,7 +54,7 @@ Material:
     - _CircleDiameter: 0.5
     - _CircleRadius: 0.8
     - _CircleThickness: 0.5
-    - _FillAmount: 0.66
+    - _FillAmount: 1
     - _FlipFill: 0
     - _Height: 0.2
     - _Outline: 0.12
