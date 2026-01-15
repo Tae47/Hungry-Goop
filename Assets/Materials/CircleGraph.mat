@@ -24,13 +24,15 @@ Material:
   m_Shader: {fileID: -6465566751694194690, guid: a541f65c3dfc8144b91a87246b879c63, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _ALPHATEST_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap: {}
+  stringTagMap:
+    RenderType: TransparentCutout
   disabledShaderPasses:
   - MOTIONVECTORS
   m_LockedProperties: 
@@ -51,22 +53,54 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AlphaClip: 1
+    - _AlphaToMask: 1
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 1
+    - _CastShadows: 1
     - _CircleDiameter: 0.5
     - _CircleRadius: 0.8
-    - _CircleThickness: 0.5
+    - _CircleThickness: 0.6666667
+    - _Cull: 2
+    - _DstBlend: 0
+    - _DstBlendAlpha: 0
     - _FillAmount: 1
     - _FlipFill: 0
     - _Height: 0.2
     - _Outline: 0.12
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _ReceiveShadows: 1
     - _Rotation: 0
     - _SquareHeight: 0.2
     - _SquareRotation: 0
     - _SquareThickness: 0.12
     - _SquareWidth: 0.2
+    - _SrcBlend: 1
+    - _SrcBlendAlpha: 1
+    - _Surface: 0
+    - _TaePosition0: 0
+    - _TaePosition1: 0.5
+    - _TaePosition2: 1
+    - _TaePosition3: 3
+    - _TaePosition4: 4
+    - _TaePosition5: 5
+    - _TaePosition6: 6
+    - _TaePosition7: 7
     - _UseRectangle: 0
     - _Width: 0.2
-    m_Colors: []
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 0
+    m_Colors:
+    - _TaeColor0: {r: 0, g: 0.001220868, b: 0.009433985, a: 0}
+    - _TaeColor1: {r: 0, g: 0.9806142, b: 1, a: 0}
+    - _TaeColor2: {r: 0.3209072, g: 1, b: 0.28400004, a: 0}
+    - _TaeColor3: {r: 0, g: 0, b: 0, a: 0}
+    - _TaeColor4: {r: 0, g: 0, b: 0, a: 0}
+    - _TaeColor5: {r: 0, g: 0, b: 0, a: 0}
+    - _TaeColor6: {r: 0, g: 0, b: 0, a: 0}
+    - _TaeColor7: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
