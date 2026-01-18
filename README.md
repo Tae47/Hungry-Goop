@@ -61,6 +61,7 @@ So what do y'all think? :3<br>
 :white_large_square: Day cycle so the game knows when it's a new day, and saves data PER DAY<br>
 :white_large_square: Bars that fill up showing current daily intake and how far you are from goals<br>
 - 🟩 A circular progress bar with a custom shader to show individual progress<br>
+
 :white_large_square: Settings menu to set up your goals<br>
 :white_large_square: Detect when you're close to your target (for rewards)<br>
 :white_large_square: Create saving activites that you can do to still get rewards even when missing your target<br>
